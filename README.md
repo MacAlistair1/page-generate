@@ -12,7 +12,7 @@
     -   `php artisan migrate`
 
 
-**live demo url**: https://unsplash.jeevenlamichhane.com.np
+🔗 [live demo url](https://unsplash.jeevenlamichhane.com.np)
 
 <p align="center">
                    
