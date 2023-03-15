@@ -12,8 +12,7 @@
     -   `php artisan migrate`
 
 
-**url**: http://{project-root-url}
-
+**live demo url**: https://unsplash.jeevenlamichhane.com.np
 
 <p align="center">
                    
